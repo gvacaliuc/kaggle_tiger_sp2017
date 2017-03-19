@@ -6,3 +6,4 @@ stage1_labels.csv
 *.csv
 *.pyc
 __pycache__
+.ipynb_checkpoints/
